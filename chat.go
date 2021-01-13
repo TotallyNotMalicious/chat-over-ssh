@@ -17,7 +17,6 @@ type room struct {
 
 type guest struct {
 	channel ssh.Channel
-
 	Name string
 }
 
